@@ -17,6 +17,9 @@ namespace MyTestSolution1
             InitializeComponent();
 
             // Comment 1
+
+
+            // Branch Comment
         }
     }
 }
