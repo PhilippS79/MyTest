@@ -19,6 +19,9 @@ namespace MyTestSolution1
             // Comment 1
 
             // Comment 2
+
+
+            // Branch Comment
         }
     }
 }
