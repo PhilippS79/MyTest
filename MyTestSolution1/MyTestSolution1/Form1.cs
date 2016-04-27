@@ -15,6 +15,8 @@ namespace MyTestSolution1
         public Form1()
         {
             InitializeComponent();
+
+            // Comment 1
         }
     }
 }
